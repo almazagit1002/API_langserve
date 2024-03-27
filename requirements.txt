@@ -1,0 +1,9 @@
+langchain
+langchain_openai 
+langchain_core
+python-dotenv
+langserve
+fastapi
+uvicorn
+pinecone-client==3.1.0
+langchainhub
